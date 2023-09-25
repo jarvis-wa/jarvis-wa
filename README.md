@@ -8,6 +8,7 @@
   </a>
 <p align="center">
 
+- ---
 ## 🚀 About Me
 I am a 4B BMath (Bachelor of Mathematics in Data Science) undergraduate at University of Waterloo, I love everything about data science, computer science and machine learning programming!
 
@@ -36,8 +37,19 @@ I am a 4B BMath (Bachelor of Mathematics in Data Science) undergraduate at Unive
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/devops-containers-kubernetes.svg" title="Container" alt="Container" width="40" height="40"/>&nbsp;
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/power-bi.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/powerapps.svg" title="PowerApps" alt="PowerApps" width="40" height="40"/>&nbsp;
+  <a href="https://logovtor.com/lucidchart-logo-vector-svg/" target="_blank">
+    <img src="https://logovtor.com/wp-content/uploads/2021/09/lucidchart-logo-vector.png" alt="Lucidchart" width="40" height="40" />
+  </a>
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/mlflow.svg" title="mlflow" alt="mlflow" width="40" height="40"/>&nbsp;
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/apache-spark.svg" title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/vs-code.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+</div>
+
+- ---
+
+### 🤝  Teamwork & Collaboration :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
 </div>
