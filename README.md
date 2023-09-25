@@ -28,8 +28,10 @@ I am a 4B BMath (Bachelor of Mathematics in Data Science) undergraduate at Unive
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title="Neo4j"  alt="Neo4j" width="40" height="40"/>&nbsp;
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/databricks.svg" title="Azure Databricks" alt="Azure Databricks" width="40" height="40"/>&nbsp;
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/machine-learning02.svg" title="Azure ML" alt="Azure ML" width="40" height="40"/>&nbsp;
+  <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/devops-containers-kubernetes.svg" title="Container" alt="Container" width="40" height="40"/>&nbsp;
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/power-bi.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/powerapps.svg" title="PowerApps" alt="PowerApps" width="40" height="40"/>&nbsp;
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/mlflow.svg" title="mlflow" alt="mlflow" width="40" height="40"/>&nbsp;
