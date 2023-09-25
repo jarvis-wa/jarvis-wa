@@ -22,18 +22,18 @@ I am a 4B BMath (Bachelor of Mathematics in Data Science) undergraduate at Unive
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/databricks.svg" title="Azure Databricks" alt="Azure Databricks" width="40" height="40"/>&nbsp;
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/machine-learning02.svg" title="Azure ML" alt="Azure ML" width="40" height="40"/>&nbsp;
+  <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/power-bi.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
+  <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/powerapps.svg" title="PowerApps" alt="PowerApps" width="40" height="40"/>&nbsp;
+  <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/mlflow.svg" title="mlflow" alt="mlflow" width="40" height="40"/>&nbsp;
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/apache-spark.svg" title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/vs-code.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-
 </div>
