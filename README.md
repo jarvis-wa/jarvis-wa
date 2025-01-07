@@ -10,9 +10,9 @@
 
 - ---
 ## 🚀 About Me
-I am a 4B BMath (Bachelor of Mathematics in Data Science) undergraduate at University of Waterloo, I love everything about data science, computer science and machine learning programming!
+I graduated in 2024 from University of Waterloo in Bachelor of Mathematics in Data Science (Co-op), and am currently a master student at University of Toronto Master of Science in Applied Computing (MScAC), under the Department of Computer Science. I love everything about data science, computer science and machine learning programming!
 
-- 🔭 I had three co-ops at [CGI](https://www.cgi.com/en), [University of Waterloo](https://uwaterloo.ca/), [Manulife](https://www.manulife.ca/personal.html).
+- 🔭 I had three past co-op experiences at [CGI](https://www.cgi.com/en), [University of Waterloo](https://uwaterloo.ca/), [Manulife](https://www.manulife.ca/personal.html). The last two positions are 8-month.
 - 🌱 I’m currently learning classification and deep learning neural networks.
 - 💬 Tell me about your favorite FPS and MOBA games!
 - 📫 How to reach me out: [here](szwjw034@gmail.com).
@@ -24,7 +24,7 @@ I am a 4B BMath (Bachelor of Mathematics in Data Science) undergraduate at Unive
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -32,7 +32,7 @@ I am a 4B BMath (Bachelor of Mathematics in Data Science) undergraduate at Unive
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title="Neo4j"  alt="Neo4j" width="40" height="40"/>&nbsp;
-  <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/databricks.svg" title="Azure Databricks" alt="Azure Databricks" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" title="Azure Databricks" alt="Azure Databricks" width="40" height="40"/>&nbsp;
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/machine-learning02.svg" title="Azure ML" alt="Azure ML" width="40" height="40"/>&nbsp;
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/devops-containers-kubernetes.svg" title="Container" alt="Container" width="40" height="40"/>&nbsp;
   <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/power-bi.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
