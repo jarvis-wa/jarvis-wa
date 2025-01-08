@@ -15,7 +15,7 @@ I graduated in 2024 from University of Waterloo in Bachelor of Mathematics in Da
 - 🔭 I had three past co-op experiences at [CGI](https://www.cgi.com/en), [University of Waterloo](https://uwaterloo.ca/), [Manulife](https://www.manulife.ca/personal.html). The last two positions are 8-month.
 - 🌱 I’m currently learning classification and deep learning neural networks.
 - 💬 Tell me about your favorite FPS and MOBA games!
-- 📫 How to reach me out: [here](szwjw034@gmail.com).
+- 📫 How to reach me out: <a href="mailto:wjwsz@outlook.com"><img src="https://github.com/jarvis-wa/Icons_for_readme/blob/main/Outlook.com-Logo.wine.svg" title="outlook" alt="outlook" width="40" height="40"/></a>.
 - ⚡ Fun fact: I've played the piano for more than 10 years.
 
 - ---
@@ -32,18 +32,15 @@ I graduated in 2024 from University of Waterloo in Bachelor of Mathematics in Da
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title="Neo4j"  alt="Neo4j" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" title="Azure Databricks" alt="Azure Databricks" width="40" height="40"/>&nbsp;
-  <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/machine-learning02.svg" title="Azure ML" alt="Azure ML" width="40" height="40"/>&nbsp;
-  <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/devops-containers-kubernetes.svg" title="Container" alt="Container" width="40" height="40"/>&nbsp;
-  <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/power-bi.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
-  <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/powerapps.svg" title="PowerApps" alt="PowerApps" width="40" height="40"/>&nbsp;
-  <a href="https://logovtor.com/lucidchart-logo-vector-svg/" target="_blank">
-    <img src="https://logovtor.com/wp-content/uploads/2021/09/lucidchart-logo-vector.png" alt="Lucidchart" width="40" height="40" />
-  </a>
-  <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/mlflow.svg" title="mlflow" alt="mlflow" width="40" height="40"/>&nbsp;
-  <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/apache-spark.svg" title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/jarvis-wa/Icons_for_readme/blob/main/Databricks_Logo.png" title="Azure Databricks" alt="Azure Databricks" width="70" height="40"/>&nbsp;
+  <img src="https://github.com/jarvis-wa/Icons_for_readme/blob/main/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/jarvis-wa/Icons_for_readme/blob/main/docker.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/jarvis-wa/Icons_for_readme/blob/main/Microsoft-Power-BI-Symbol.png" title="PowerBI" alt="PowerBI" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/jarvis-wa/Icons_for_readme/blob/main/office_line_sa_power_apps_image.png" title="PowerApps" alt="PowerApps" width="70" height="40"/>&nbsp;
+  <img src="https://github.com/jarvis-wa/Icons_for_readme/blob/main/lucidchart-logo-vector.png" alt="Lucidchart" width="80" height="40" />
+  <img src="https://github.com/jarvis-wa/Icons_for_readme/blob/main/sparks.png" title="Spark" alt="Spark" width="70" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/vs-code.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/jarvis-wa/Icons_for_readme/blob/main/Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
 - ---
