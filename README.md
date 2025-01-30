@@ -12,7 +12,7 @@
 ## 🚀 About Me
 I graduated in 2024 from University of Waterloo in Bachelor of Mathematics in Data Science (Co-op), and am currently a master student at University of Toronto Master of Science in Applied Computing (MScAC), under the Department of Computer Science. I love everything about data science, computer science and machine learning programming!
 
-- 🔭 I had three past co-op experiences at [CGI](https://www.cgi.com/en), [University of Waterloo](https://uwaterloo.ca/), [Manulife](https://www.manulife.ca/personal.html). The last two positions are 8-month.
+- 🔭 I had three past co-op experiences at [University of Waterloo](https://uwaterloo.ca/), [CGI](https://www.cgi.com/en), [Manulife](https://www.manulife.ca/personal.html). The last two positions are 8-month.
 - 🌱 I’m currently learning classification and deep learning neural networks.
 - 💬 Tell me about your favorite FPS and MOBA games!
 - 📫 How to reach me out: <a href="mailto:wjwsz@outlook.com"><img src="https://github.com/jarvis-wa/Icons_for_readme/blob/main/Outlook.com-Logo.wine.svg" title="outlook" alt="outlook" width="40" height="40"/></a>.
